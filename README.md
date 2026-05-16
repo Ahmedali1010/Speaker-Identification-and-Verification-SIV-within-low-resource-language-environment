@@ -1,2 +1,2 @@
 # Speaker-Identification-and-Verification-SIV-within-low-resource-language-environment
-Pre-trained deep learning (Mel-CNN, Bi-LSTM, ANN) and statistical models for text-independent Speaker Identification and Verification. Trained on a custom 86,505-sample Central Kurdish speech corpus. Includes ready-to-use architectures and label encoders for immediate inference and research reproducibility.
+Source code and training pipelines for text-independent Speaker Identification and Verification. Includes complete Python scripts for the Mel-CNN, Bi-LSTM, and deep ANN اand GMM and CNN-MFCC architectures evaluated on the Central Kurdish speech corpus. Designed for architecture replication and research reproducibility.
